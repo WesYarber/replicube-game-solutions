@@ -16,6 +16,15 @@ Notes:
 - I have not yet finished all the game's challenges
 
 
+## Extra: Cursor IDE Rule to deoptimize
+
+Apart from my [optimization comments](coding.md), I decided to put the Generative AI to work, and created [a Cursor rule](.cursor/rules/replicube-deoptimization-rule.mdc) to generate readable versions of my solutions. You can run it like so:
+
+```
+Run the @replicube-deoptimization-rule.mdc rule with the @2-basic-hourglass.lua file
+```
+
+
 ## Extra: My Sandbox Projects
 
 Some personal projects, exported in `.vox` format, compatible with the [MagicaVoxel](https://ephtracy.github.io/) tool (from where the higher quality renders come from).

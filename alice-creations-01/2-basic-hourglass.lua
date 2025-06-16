@@ -1,6 +1,4 @@
--- Code size: 12
--- Cycles/voxel: 5.395
+-- Code size: 10
+-- Cycles/voxel: 6.395
 
-if y*y > x*x then
-  return 9
-end
+return y*y > x*x and 9

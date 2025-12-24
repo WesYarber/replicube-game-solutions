@@ -2,3 +2,7 @@
 -- Cycles/voxel: 5.3
 
 return y > 1 and 7 or y < -1 and 11 or 9
+
+-- Code size: 11
+-- Cycles/voxel: 7
+return 9-(y+1)//3*2
